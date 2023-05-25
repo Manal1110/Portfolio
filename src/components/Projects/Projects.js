@@ -9,6 +9,7 @@ import hotel from "../../Assets/Projects/hotel.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import ghost from "../../Assets/Projects/ghost.png";
 import pharma from "../../Assets/Projects/pharm.png";
+import car from "../../Assets/Projects/car.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -72,6 +73,16 @@ function Projects() {
               description="PharmaShop is an upcoming pharmacy management website currently under development. It is designed to cater to the needs of managers, pharmacists, and salespersons in streamlining pharmacy operations. Developed using PHP, MySQL, CSS, Bootstrap, HTML, and JavaScript, PharmaShop will offer user-friendly interfaces and features for inventory management, prescription tracking, sales processing, and customer management. Stay tuned for the launch of PharmaShop, providing an efficient solution for pharmacy professionals."
               ghLink="https://alakhawayn365-my.sharepoint.com/:u:/g/personal/m_mehdaoui_aui_ma/EblWZ7mMNHpAtVHjmdp3IdIB5k-gioRamiVTS7wk8ZwJyw?e=Rvoz0J"
               demoLink="https://youtu.be/lMFNcjzIo0c"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={car}
+              isBlog={false}
+              title="Delivery car"
+              description="Delivery Car is a 2D Unity game where players drive a car to find pink packages and deliver them to blue customers while avoiding obstacles. They can collect speed boosts by driving through yellow circles. The game offers responsive controls, immersive graphics, and rewarding gameplay with different levels or stages to explore."
+              ghLink="https://github.com/Manal1110/Delivary-car"
+              demoLink="https://youtu.be/nGs_PFEz0us"
             />
           </Col>
 
