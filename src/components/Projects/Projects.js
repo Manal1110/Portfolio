@@ -90,7 +90,7 @@ function Projects() {
             <ProjectCard
               imgPath={snake}
               isBlog={false}
-              title="Snake game"
+              title="The Snake game"
               description="The Snake Game in Unity using C# is currently under development. Players will soon be able to control a snake, collect food, and avoid obstacles to grow longer. Exciting features like power-ups, different levels, and a high-score system are being implemented. Stay tuned for updates as the game progresses towards completion."
               ghLink="https://github.com/Manal1110/Snake-game"
               demoLink="https://youtu.be/COaZnOneCvs"
