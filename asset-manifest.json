@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.19cd8de0.css",
-    "main.js": "/Portfolio/static/js/main.8fa70a85.js",
+    "main.js": "/Portfolio/static/js/main.413a8a8f.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/hotel.png": "/Portfolio/static/media/hotel.a79b46041a733a4765be.png",
@@ -10,6 +10,7 @@
     "static/media/suicide.png": "/Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/Resumepic.png": "/Portfolio/static/media/Resumepic.4251e558d05afb4ea635.png",
     "static/media/path.png": "/Portfolio/static/media/path.f57a895967164a2d77e6.png",
+    "static/media/car.png": "/Portfolio/static/media/car.38779d72c0b2b25e4c80.png",
     "static/media/pulse.png": "/Portfolio/static/media/pulse.bb99ea154f6ded9f95f1.png",
     "static/media/pharm.png": "/Portfolio/static/media/pharm.652ac83bfdc067e44e8b.png",
     "static/media/img3.png": "/Portfolio/static/media/img3.01906948383dfc763c04.png",
@@ -20,12 +21,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.19cd8de0.css.map": "/Portfolio/static/css/main.19cd8de0.css.map",
-    "main.8fa70a85.js.map": "/Portfolio/static/js/main.8fa70a85.js.map",
+    "main.413a8a8f.js.map": "/Portfolio/static/js/main.413a8a8f.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19cd8de0.css",
-    "static/js/main.8fa70a85.js"
+    "static/js/main.413a8a8f.js"
   ]
 }
